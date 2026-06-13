@@ -6,15 +6,9 @@
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=22&pause=1000&color=b8bb26&center=true&vCenter=true&width=435&lines=Welcome+.+.+.+happy+you're+here!;Compiling+Errors%2C+Debugging+Typos;UHCL+CS%2C+Graduating+December+2023" alt="Typing SVG" class="center" style="text-align: center;"/></a>
 </p> 
 
-> <i>"If you can't explain it simply, you don't understand it well enough."</i> – Albert Einstein
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/yaboi_ramirez.svg?style=social&label=Follow%20%40yaboi_ramirez)](https://twitter.com/yaboi_ramirez)
-[![wakatime](https://wakatime.com/badge/user/5c935070-0770-4681-a15d-9ebfd498125c.svg?style=flat-square&v=2)](https://wakatime.com/@5c935070-0770-4681-a15d-9ebfd498125c)
-<img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/brandon-e-ramirez?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+> <i>"If you can't explain it simply, you don't understand it well enough."</i> 
 
 <p align="left">
- <a href="https://github.com/brandon-e-ramirez?tab=followers">
-<img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/brandon-e-ramirez?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-</a>
 	
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199377121670/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Climeer445@gmail.com)
