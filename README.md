@@ -27,8 +27,6 @@
 ¡Hola! Soy estudiante de analisis y desarrollo de software en el SENA. Me encanta ponerme a prueba y con problemas complejos. En mi tiempo libre   completo videojuegos  al 100% Mis intereses técnicos incluyen el desarrollo de software y videojuegos, la cibersegurida y el software de código abierto. 
 </p> 
 
-<img align="right"  width="250" height="250" src="https://github.com/Rishit-dagli/Rishit-dagli/raw/master/images/octocat-anime.gif">
-
 ```yaml
 Nombre: Simón Ospina Galeano
 Ubicación: Envigado, Colombia
@@ -38,15 +36,6 @@ Correo electrónico: Climeer445@gmail.com
 Educación: Tecnologo en ADSO
 Educación: Tecnico en seguridad digital
 
-[
-  "University of Houston - Clear Lake: Bachelors in Computer Science",
-  "Galveston College: Associates of Science (General Studies)"
-]
-currently_studying: ["Python", "node.js", "React"]
-field_of_interests: ["machine learning", "robotics", "computer graphics"]
-soft-skills: ["attention to details", "hard working", "time management"]
-misc_interests: ["cooking", "manga", "metal/blues", "mathematics", "japanese"]
-2023_goals: ["Code at least 1hr a day", "Wake up early", "Land developer role"]
 ```
 
 <table style="width:100%">
