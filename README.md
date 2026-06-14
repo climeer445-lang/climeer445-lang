@@ -13,7 +13,6 @@
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199377121670/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Climeer445@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/VYm4XhnUKR)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/yaboi_ramirez/)
 </p>
 
 ```
@@ -25,12 +24,12 @@
 ╚══════╝╚═╝╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═══╝     ╚═════╝ ╚══════╝╚═╝     ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝
 
 <p>
-Hello! I'm a computer science senior at UHCL. I love to challenge myself and find creative ways to solve complex problems. I like making software that provides value to other people and the process of making/learning new and novel things. Whenever I have free time I like playing guitar, going to the gym, digital art, writing, and teaching! My technical interests include software/game development, web dev, GNU/Linux, and open source! :) 
+¡Hola! Soy estudiante de analisis y desarrollo de software en el SENA. Me encanta ponerme a prueba y con problemas complejos. En mi tiempo libre   completo videojuegos  al 100% Mis intereses técnicos incluyen el desarrollo de software y videojuegos, la cibersegurida y el software de código abierto. 
 </p> 
 
 <img align="right"  width="250" height="250" src="https://github.com/Rishit-dagli/Rishit-dagli/raw/master/images/octocat-anime.gif">
 
-```yaml
+```
 name: Brandon Evaristo Ramirez
 located_in: Houston, Texas
 current_job: Student, Coding Sensei @ Code Ninjas
