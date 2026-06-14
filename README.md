@@ -29,26 +29,16 @@
 
 <img align="right"  width="250" height="250" src="https://github.com/Rishit-dagli/Rishit-dagli/raw/master/images/octocat-anime.gif">
 
-```
-name: Brandon Evaristo Ramirez
-located_in: Houston, Texas
-current_job: Student, Coding Sensei @ Code Ninjas
-stats: {Role:Binary Wizard, Status:Tired, XP:22, Power:83, MP:94, HP:47}
-usernames: ["@yaboi_ramirez", "@Brandon-E-Ramirez"]
-email: brandon.evaristo.ramirez@gmail.com
-resume: "https://external.ink?to=/rb.gy/cnjkwt"
-blog: "https://external.ink?to=/digital-crafting.hashnode.dev"
-dot_url: "https://dot.cards/brandon_e_ramirez"
-education:
-[
-  "University of Houston - Clear Lake: Bachelors in Computer Science",
-  "Galveston College: Associates of Science (General Studies)"
-]
-currently_studying: ["Python", "C++", "React"]
-field_of_interests: ["machine learning", "robotics", "computer graphics"]
-soft-skills: ["attention to details", "hard working", "time management"]
-misc_interests: ["cooking", "manga", "metal/blues", "mathematics", "japanese"]
-2023_goals: ["Code at least 1hr a day", "Wake up early", "Land developer role"]
+```yaml
+Nombre: Simón Ospina Galeano
+Ubicación: Envigado, Colombia
+Trabajo actual: Estudiante
+Nombres de usuario: ["climeer445-lang, Climeer"]
+Correo electrónico: Climeer445@gmail.com
+Educación: Tecnologo en ADSO
+Educación: Tecnico en seguridad digital
+
+
 ```
 
 <table style="width:100%">
