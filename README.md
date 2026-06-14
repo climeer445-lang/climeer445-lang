@@ -38,7 +38,21 @@ Correo electrónico: Climeer445@gmail.com
 Educación: Tecnologo en ADSO
 Educación: Tecnico en seguridad digital
 
+[
+  "University of Houston - Clear Lake: Bachelors in Computer Science",
+  "Galveston College: Associates of Science (General Studies)"
+]
+currently_studying: ["Python", "node.js", "React"]
+field_of_interests: ["machine learning", "robotics", "computer graphics"]
+soft-skills: ["attention to details", "hard working", "time management"]
+misc_interests: ["cooking", "manga", "metal/blues", "mathematics", "japanese"]
+2023_goals: ["Code at least 1hr a day", "Wake up early", "Land developer role"]
+```
 
+<table style="width:100%">
+<tr>
+    <td><g-emoji class="g-emoji" alias="toolbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9f0.png">🧰</g-emoji>
+ Languages and Tools</td>
 ```
 
 <table style="width:100%">
