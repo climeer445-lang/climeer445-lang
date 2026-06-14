@@ -25,7 +25,8 @@
 
 <p>
 ¡Hola! Soy estudiante de analisis y desarrollo de software en el SENA. Me encanta ponerme a prueba y con problemas complejos.
- En mi tiempo libre   completo videojuegos  al 100% Mis intereses técnicos incluyen el desarrollo de software y videojuegos, la cibersegurida y el software de código abierto. 
+ En mi tiempo libre   completo videojuegos  al 100% Mis intereses técnicos incluyen el desarrollo de software y videojuegos,
+ la cibersegurida y el software de código abierto. 
 </p> 
 
 ```yaml
