@@ -266,11 +266,3 @@ data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/py
  <img height="256" src="https://steamuserimages-a.akamaihd.net/ugc/853851650567670406/C7B8F1F42B73E68B360FD925CEA08E25D2B0FD16/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 </p>
 
--->
-<!---
-Brandon-E-Ramirez/Brandon-E-Ramirez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-------
-Credit: [Brandon-E-Ramirez](https://github.com/Brandon-E-Ramirez)
-Last Edited on: 08/08/2023
