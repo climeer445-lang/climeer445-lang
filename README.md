@@ -265,25 +265,7 @@ data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/py
 <p align="center">
  <img height="256" src="https://steamuserimages-a.akamaihd.net/ugc/853851650567670406/C7B8F1F42B73E68B360FD925CEA08E25D2B0FD16/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 </p>
-<!---
-```
-				       _=|_
-				     _[_## ]_
-				_  +[_[_+_]P/    _    |_       ____      _=--|-~
-				 ~---\_I_I_[=\--~ ~~--[o]--==-|##==]-=-~~  o]H
-				-~ /[_[_|_]_]\\  -_  [[=]]    |====]  __  !j]H
-				  /    "|"    \      ^U-U^  - |    - ~ .~  U/~
-				 ~~--__~~~--__~~-__   H_H_    |_     --   _H_
-				-. _  ~~~#######~~~     ~~~-    ~~--  ._ - ~~-=
-				           ~~~=~~  -~~--  _     . -      _ _ -
-				
-				       ----------------------------------
-				      |        June, 20th, 1969          |
-				      |  Here Men from the Planet Earth  |
-				      |   First set Foot upon the Moon   |
-				      | We came in Peace for all Mankind |
-				       ---------------------------=apx=--
-```
+
 -->
 <!---
 Brandon-E-Ramirez/Brandon-E-Ramirez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
