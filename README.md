@@ -61,8 +61,8 @@ Educación: Tecnico en seguridad digital
 </tr>
 
 <tr>
-    <td><g-emoji class="g-emoji" alias="toolbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9f0.png">⚙️</g-emoji>
-Frameworks</td>
+    <td><g-emoji class="g-emoji" alias="toolbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9f0.png">🛠️</g-emoji>	
+IDEs/Tools</td>
     <td>
 
 </td>
