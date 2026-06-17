@@ -100,10 +100,9 @@ Misc Tools</td>
 Documentation/Learning</td>
     <td>
 	    
-![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
-![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)
-![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
-![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
+![Documentation](https://img.shields.io/badge/Documentation-%23000000.svg?style=for-the-badge&logo=readthedocs&logoColor=white)
+![MDN%20Web%20Docs](https://img.shields.io/badge/MDN_Web_Docs-%23000000.svg?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
+![Learning](https://img.shields.io/badge/Learning-%233884FF.svg?style=for-the-badge&logo=gitbook&logoColor=white)
     </td>
 </tr>
 
