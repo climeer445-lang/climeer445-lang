@@ -65,7 +65,7 @@ Educación: Tecnico en seguridad digital
 Frameworks</td>
     <td>
 
-    </td>
+</td>
 </tr>
 
 <tr>
