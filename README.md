@@ -142,14 +142,8 @@ Frameworks</td>
   [![Brandon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Brandon-E-Ramirez&theme=react-dark&area=true&hide_border=true&point=fbf1c7&color=83a598)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
-	<a href="https://wakatime.com"><img src="https://wakatime.com/share/@yaboi_ramirez/6faa0a63-b850-4df7-9317-7926e8011163.png" /></a>
-</p>
 <p align="center">
  <img height="256" src="https://steamuserimages-a.akamaihd.net/ugc/853851650567670406/C7B8F1F42B73E68B360FD925CEA08E25D2B0FD16/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 </p>
-<div style="display: inline-block; overflow: hidden;">
-<img src="https://24.media.tumblr.com/466f33e59dbb8d5682d17ca57ae53e00/tumblr_n594zqluJ31rpfk7eo1_500.gif" height="265" align="center"/>
-<img src="https://cdnvideo-static-ssl.ctclove.ru/uploads/test/preview_picture/3854978478.gif" height="265" align="center"/>
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWRoemVkc3JxeHc2Z2p3M3h5ZWI2YzQ3dGs0NTQ2NW5nNG9nNW9iNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3Z1fKb6plPLM3hMbLs/giphy.gif" height="265" align="center"/>
-</div>
+
 
