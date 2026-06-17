@@ -57,7 +57,6 @@ Educación: Tecnico en seguridad digital
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 <img align="left"  width="24" height="30" src="https://seeklogo.com/images/A/azure-sql-database-logo-D7A32C9CD9-seeklogo.com.png">
-<img align="left"  width="30" height="30" src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/34/02/d6/3402d69f-7185-2fa7-1e4c-96c5cf4aecb7/source/512x512bb.jpg">
 </td>
 </tr>
 
