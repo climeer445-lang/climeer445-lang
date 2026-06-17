@@ -117,17 +117,11 @@ Frameworks</td>
 </table>
 
 <p align="center">
-	
 </p>
-
-
-
 </div> 
-
 <div>
 <hr>
 </div>
-
 <br>
 <div>
 <p align="center">
