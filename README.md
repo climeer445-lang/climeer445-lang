@@ -118,17 +118,6 @@ Frameworks</td>
 
 <p align="center">
 </p>
-</div> 
-<div>
-<hr>
-</div>
-<br>
-<div>
-<p align="center">
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=brandon-e-ramirez&rank_icon=percentile&show_icons=true&theme=monokai&card_width=230&rank_icon=percentile&show_icons=true&include_all_commits-true"&rank_icon=percentile align = "center"/>
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=brandon-e-ramirez&show_icons=true&locale=en&layout=compact&theme=ayu-mirage&card_width=240" align = "center"/>
-</p>
-</div>
 
 <p align="center">
 <p align="center">
