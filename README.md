@@ -133,10 +133,6 @@ Documentation/Learning</td>
 
 <p align="center">
 	
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Brandon-E-Ramirez&repo=30DaysOfPython)](https://github.com/Brandon-E-Ramirez/30DaysOfPython)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Brandon-E-Ramirez&repo=30DaysOfReact)](https://github.com/Brandon-E-Ramirez/30DaysOfReact)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Brandon-E-Ramirez&repo=30DaysOfJS)](https://github.com/Brandon-E-Ramirez/30DaysOfJS)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Brandon-E-Ramirez&repo=p5.js_sketches)](https://github.com/Brandon-E-Ramirez/p5.js_sketches)
 </p>
 
 
